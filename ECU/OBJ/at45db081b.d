@@ -1,0 +1,1 @@
+..\obj\at45db081b.o: ..\HARDWARE\AT45DB081B\AT45DB081B.c

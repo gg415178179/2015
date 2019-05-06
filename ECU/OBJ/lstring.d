@@ -1,0 +1,10 @@
+..\obj\lstring.o: ..\W5300_DRIVER\lstring.c
+..\obj\lstring.o: ..\W5300_DRIVER\include\stdarg.h
+..\obj\lstring.o: ..\W5300_DRIVER\include\lstring.h
+..\obj\lstring.o: ..\W5300_DRIVER\include\main.h
+..\obj\lstring.o: ..\W5300_DRIVER\include\types.h
+..\obj\lstring.o: ..\W5300_DRIVER\include\time.h
+..\obj\lstring.o: ..\W5300_DRIVER\include\serial.h
+..\obj\lstring.o: ..\W5300_DRIVER\include\xscale.h
+..\obj\lstring.o: ..\W5300_DRIVER\include\lstring.h
+..\obj\lstring.o: ..\W5300_DRIVER\include\main.h
